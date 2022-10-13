@@ -1,0 +1,15 @@
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\bin\Debug\net6.0\ProjektZkouska.exe
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\bin\Debug\net6.0\ProjektZkouska.deps.json
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\bin\Debug\net6.0\ProjektZkouska.runtimeconfig.json
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\bin\Debug\net6.0\ProjektZkouska.dll
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\bin\Debug\net6.0\ProjektZkouska.pdb
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\obj\Debug\net6.0\ProjektZkouska.csproj.AssemblyReference.cache
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\obj\Debug\net6.0\ProjektZkouska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\obj\Debug\net6.0\ProjektZkouska.AssemblyInfoInputs.cache
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\obj\Debug\net6.0\ProjektZkouska.AssemblyInfo.cs
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\obj\Debug\net6.0\ProjektZkouska.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\obj\Debug\net6.0\ProjektZkouska.dll
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\obj\Debug\net6.0\refint\ProjektZkouska.dll
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\obj\Debug\net6.0\ProjektZkouska.pdb
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\obj\Debug\net6.0\ProjektZkouska.genruntimeconfig.cache
+C:\Users\Kuba\Dropbox\ProjektZkouska\ProjektZkouska\obj\Debug\net6.0\ref\ProjektZkouska.dll
